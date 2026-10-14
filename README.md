@@ -13,6 +13,7 @@ invoke relevant functions.
 IDE and Setup
 -------------------------------------------------------------------------------------------------
 The project is built using .NET 8 and Rider IDE.The tests are run using Test Explorer.
+This framework can be cloned and imported in Visual Studio for Windows.
 
 
 
